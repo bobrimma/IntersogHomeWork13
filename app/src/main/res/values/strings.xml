@@ -1,6 +1,5 @@
 <resources>
-    <string name="app_name">IntersogHomework13</string>
-
-    <string name="hello_world">Hello world!</string>
+    <string name="app_name">Intersog Homework #13</string>
+    <string name="text">Your photos:</string>
     <string name="action_settings">Settings</string>
 </resources>
